@@ -13,7 +13,7 @@
 
 
 
-* DISCLAIMER * I am NOT affiliated with Samperson or House House. I am also NOT liable for any damage done to your computer using this application
+* DISCLAIMER * I am NOT affiliated with Samperson or House House. I am also NOT liable for any damage done to your computer using this application.
 
 
 
