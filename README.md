@@ -1,6 +1,6 @@
 # Estimated Release Date: June 20th!
 
-## Goosenator website: https://norok-the-diablo.github.io/goosenator-web/
+## Goosenator website: https://norok-the-diablo.github.io/goosenator/
 
 ![Desktop Goose](desktop-goose.jpg)
 ##### I found this image on https://samperson.itch.io
