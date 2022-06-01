@@ -2,7 +2,7 @@
 
 ## Goosenator website: https://norok-the-diablo.github.io/goosenator/
 
-![Desktop Goose](desktop-goose.jpg)
+![Desktop Goose](desktop-goose.png)
 ##### I found this image on https://samperson.itch.io
 
 
