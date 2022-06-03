@@ -29,4 +29,4 @@ Haveeee fuun wittth youur gooossse!!1! (Sorry about the typo's it is hard to typ
 
 ### SPECIAL THANKS:
 
-All credit for Desktop Goose goes to https://samperson.itch.io/desktop-goose. Trailer for Desktop Goose: https://www.youtube.com/watch?v=EQx6fyrZDWM. The idea for both "Desktop Goose" and "The Goosenator 6000" came from "Untitled Goose Game" a video game about a goose made by House House. The rest of the project was programmed by me, Toma Brasoveanu, a Romanian-American programmer that lives in California.
+All credit for Desktop Goose goes to https://samperson.itch.io/desktop-goose. Trailer for Desktop Goose: https://www.youtube.com/watch?v=EQx6fyrZDWM. The idea for both "Desktop Goose" and "The Goosenator 6000" came from "Untitled Goose Game" a video game about a goose made by House House. The rest of the project was programmed by me, Toma Brasoveanu, a Romanian-American programmer.
