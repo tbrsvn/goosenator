@@ -12,7 +12,8 @@
 "The Goosenator 6000" is an application you load onto a USB drive that can configure and install Desktop Goose in many ways. It works on almost any modern Microsoft Windows operating system.
 
 
-WHAT IS "Desktop Goose"?
+### WHAT IS "Desktop Goose"?
+
 "Desktop Goose" is an application with the sole purpose of causing chaos. The goose will run around your screen stealing your mouse, tracking mud, writing notes, and bringing memes. He also honks, A LOT. Simulation of "Desktop Goose" honking. (Credit to House House for this honking noise.)
 
 
