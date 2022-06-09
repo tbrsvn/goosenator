@@ -1,0 +1,1 @@
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& 'D:\Stuff\Run This If You Want To Remove All Mods.ps1'"

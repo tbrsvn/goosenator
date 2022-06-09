@@ -1,0 +1,1 @@
+Copy-Item D:\stuff\rainbow\config.ini C:\Document\config.ini -R
