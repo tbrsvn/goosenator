@@ -26,7 +26,13 @@
 First, download the source code or release of your choice.
 Second, extract the .zip file you just downloaded from this GitHub repository or my website.
 Third, copy-paste the contents of the .zip on to a USB drive. Make sure the contents of the .zip are not in a folder on the USB drive.
-NOTE: You MUST have "The Goosenator 6000" on a D: drive. It was programmed with the D: drive in mind and using any other letter for your USB will require modification of the code. Fourth, plug the newly-made USB into a computer and install the components you want by double-clicking the files with names of the functions you want. An example of a file you would double-click is "Install Desktop Goose.lnk".
+NOTE: You MUST have "The Goosenator 6000" on a D: drive. It was programmed with the D: drive in mind and using any other letter for your USB will require modification of the code. ALSO NOTE: I am using a modified version of "Desktop Goose".
+
+
+
+### HOW DO I USE "The Goosenator 6000"?
+
+
 
 Haveeee fuun wittth youur gooossse!!1! (Sorry about the typo's it is hard to type with a goose attacking you)
 
