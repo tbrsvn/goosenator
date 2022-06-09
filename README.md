@@ -1,5 +1,3 @@
-# Estimated Release Date: June 20th!
-
 ## "The Goosenator 6000" Website: https://Goosenator6000.github.io/
 
 ![Desktop Goose](desktop-goose.png)
