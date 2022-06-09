@@ -32,9 +32,13 @@ NOTE: You MUST have "The Goosenator 6000" on a D: drive. It was programmed with 
 
 ### HOW DO I USE "The Goosenator 6000"?
 
+...
+
 
 
 Haveeee fuun wittth youur gooossse!!1! (Sorry about the typo's it is hard to type with a goose attacking you)
+
+
 
 ### SPECIAL THANKS:
 
