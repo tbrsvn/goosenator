@@ -12,19 +12,17 @@
 
 ### WHAT IS "Desktop Goose"?
 
-"Desktop Goose" is an application with the sole purpose of causing chaos. The goose will run around your screen stealing your mouse, tracking mud, writing notes, and bringing memes. He also honks, A LOT. Simulation of "Desktop Goose" honking. (Credit to House House for this honking noise.)
+"Desktop Goose" is an application with the sole purpose of causing chaos. The goose will run around your screen stealing your mouse, tracking mud, writing notes, and bringing memes. He also honks, A LOT.
 
 
 * DISCLAIMER * I am NOT affiliated with Samperson or House House. I am also NOT liable for any damage done to your computer using this application.
-
+* NOTE *: You MUST have "The Goosenator 6000" on a D: drive. It was programmed with the D: drive in mind and using any other letter for your USB will require modification of the code. 
+* ALSO NOTE *: I am using a modified version of "Desktop Goose".
 
 
 ### INSTALLATION GUIDE: 
 
-First, download the source code or release of your choice.
-Second, extract the .zip file you just downloaded from this GitHub repository or my website.
-Third, copy-paste the contents of the .zip on to a USB drive. Make sure the contents of the .zip are not in a folder on the USB drive.
-NOTE: You MUST have "The Goosenator 6000" on a D: drive. It was programmed with the D: drive in mind and using any other letter for your USB will require modification of the code. ALSO NOTE: I am using a modified version of "Desktop Goose".
+First, download the source code or release of your choice. Second, extract the .zip file you just downloaded from this GitHub repository or my website then copy-paste the contents of the .zip on to a USB drive (Make sure the contents of the .zip are in the root of the USB drive and not in a folder.) if you downloaded the source code. If you downloaded the .exe file double click it and replace the directory the installer wants to install to with D:\ .
 
 
 
