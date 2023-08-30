@@ -1,0 +1,13 @@
+theme: jekyll-theme-cayman
+title: Welcome To The Home Of The Goosenator 6000!
+author: Toma Brasoveanu
+github:
+  is_project_page: false
+exclude:
+  - _config.yml
+  - README.md
+  - LICENSE
+rss-description: The Goosenator 6000
+plugins:
+  - jekyll-responsive_image
+  - emoji_for_jekyll
