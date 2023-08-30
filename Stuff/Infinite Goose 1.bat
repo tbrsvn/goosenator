@@ -1,1 +1,0 @@
-PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& 'D:\Stuff\Infinite Goose 1.ps1'"

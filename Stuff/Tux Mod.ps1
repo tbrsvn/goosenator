@@ -1,1 +1,0 @@
-Copy-Item D:\stuff\tux\config.ini C:\Document\config.ini -R

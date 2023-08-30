@@ -1,1 +1,0 @@
-PowerShell -NoProfile -ExecutionPolicy Unrestricted -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Unrestricted -File ""D:\stuff\yt.ps1""' -Verb RunAs}";

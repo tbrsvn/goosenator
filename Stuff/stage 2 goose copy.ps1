@@ -1,1 +1,0 @@
-Copy-Item D:\Stuff\st.vbs C:\Document\st.vbs -R

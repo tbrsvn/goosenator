@@ -1,1 +1,0 @@
-Copy-Item D:\Stuff\music.mp3 C:\Document\Assets\Sound\Music\
