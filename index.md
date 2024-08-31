@@ -1,4 +1,4 @@
-# [![View "The Goosenator 6000"](view.png)](https://github.com/Norok-The-Diablo/goosenator/) [![Download "The Goosenator 6000" source](download1.png)](https://github.com/Norok-The-Diablo/goosenator/archive/refs/heads/main.zip) [![Download "The Goosenator 6000" exe](download2.png)](https://github.com/Norok-The-Diablo/goosenator/releases/download/goose/Install.The.Goosenator.exe)
+# [![View "The Goosenator 6000"](view.png)](https://github.com/tbrsvn/goosenator/) [![Download "The Goosenator 6000" source](download1.png)](https://github.com/tbrsvn/goosenator/archive/refs/heads/main.zip) [![Download "The Goosenator 6000" exe](download2.png)](https://github.com/tbrsvn/goosenator/releases/download/goose/Install.The.Goosenator.exe)
 ___
 
 
@@ -37,7 +37,7 @@ Haveeee fuun wittth youur gooossse!!1! (Sorry about the typo's, it is hard to ty
 
 ### Special Thanks
 
-All credit for ["Desktop Goose"](https://samperson.itch.io/desktop-goose) goes to [Samperson](https://samperson.itch.io/). The idea for both "Desktop Goose" and "The Goosenator 6000" came from ["Untitled Goose Game"](https://goose.game/), a video game about a goose wreaking havoc on a small town made by [House House](https://househou.se/). The rest of the project was programmed by me, [@Norok-The-Diablo](https://github.com/Norok-The-Diablo/) aka Toma Brasoveanu, a Romanian-American programmer.
+All credit for ["Desktop Goose"](https://samperson.itch.io/desktop-goose) goes to [Samperson](https://samperson.itch.io/). The idea for both "Desktop Goose" and "The Goosenator 6000" came from ["Untitled Goose Game"](https://goose.game/), a video game about a goose wreaking havoc on a small town made by [House House](https://househou.se/). The rest of the project was programmed by me, [@tbrsvn](https://github.com/tbrsvn/) aka Toma Brasoveanu, a Romanian-American programmer.
 
 
 
